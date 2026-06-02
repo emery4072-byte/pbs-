@@ -1,0 +1,6 @@
+{
+  "name": "PSB Contracting",
+  "description": "High-converting professional construction, renovation, and contracting services website in Guyana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
